@@ -16,4 +16,10 @@ Tutorial Commands
 	checks out for a specific commit
 7. git diff
 	lists the differences between the last commit and the current version
+8. git stash
+	uncommited changes are added to the stash
+8a. git stash pop
+	brings back stashed uncommited changes
+8b. git stash drop 
+	drops stashed uncommited changes
 	
