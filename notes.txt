@@ -1,1 +1,19 @@
 Tutorial Commands
+
+1. git init
+	initialize a git project
+2. git status
+	checks the status of our git project
+3. git add
+	adds file to be commited -stage
+	git add . => stages all files inside the directory
+4. git commit -am "commit message"
+	commits all staged files
+	when applied this commit will ... 
+5. git log
+	will show history of all commits
+6. git checkout commit hash
+	checks out for a specific commit
+7. git diff
+	lists the differences between the last commit and the current version
+	
